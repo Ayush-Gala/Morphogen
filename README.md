@@ -18,6 +18,10 @@ ___  ___                 _
 <br>Defeat hostile creatures using each bug's unique powers and find your way through a maze of obstacles.
 Make it to the end and collect the essence of the Everendis flower to transform back into a human.
 
+# Gameplay video:
+
+[![Video](https://img.youtube.com/vi/LuU89Mj8PGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=LuU89Mj8PGc)
+
 # Instructions:
 
 ### Controls:
